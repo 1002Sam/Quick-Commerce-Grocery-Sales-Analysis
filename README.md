@@ -5,10 +5,10 @@ The Project involves the analysis of grocery sales data from BlinkIT, India's La
 The dataset contains fields such as Item Fat Content, Item Identifier, Item Type, Outlet Establishment Year, Outlet Identifier, Outlet Location Type, Outlet Size, Outlet Type, Item Visibility, Item Weight, Sales, and Rating.
 
 ## Data Cleaning and Preprocessing
-### Loading Data: Imported data into Power BI and utilized Power Query for data transformation.
-### Data Quality: Ensured 100% valid entries with no errors or empty cells.
-### Data Consistency: Standardized values in Item Fat Content (e.g., converting ‘LF’ and ‘low fat’ to ‘Low Fat’).
-### Handling Missing Values: Identified missing values in Item Weight (16%) and planned to replace them using the mean of weights of specific items.
+1. Loading Data: Imported data into Power BI and utilized Power Query for data transformation.
+2. Data Quality: Ensured 100% valid entries with no errors or empty cells.
+3. Data Consistency: Standardized values in Item Fat Content (e.g., converting ‘LF’ and ‘low fat’ to ‘Low Fat’).
+4. Handling Missing Values: Identified missing values in Item Weight (16%) and planned to replace them using the mean of weights of specific items.
 
 ## Dashboard Building
 1. Text and Formatting: Added titles and formatted KPIs with appropriate measures, colors, currency, decimals, backgrounds, and images.
