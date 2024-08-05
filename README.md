@@ -1,6 +1,9 @@
 # Quick-Commerce-Grocery-Sales-Analysis
 The Project involves the analysis of grocery sales data from BlinkIT, India's Last Minute App, to derive insights and visualize key metrics using Power BI. The primary objective is to define key performance indicators (KPIs) and create interactive visualizations to solve impending business problem and derive actionable insights for strategic descision making to stakeholders. 
 
+![BlinkIt_Dashboard](https://github.com/user-attachments/assets/6b9699c4-6e6e-48d9-9b0e-2d3cc3527e0c)
+
+
 ## Dataset Information:
 The dataset contains fields such as Item Fat Content, Item Identifier, Item Type, Outlet Establishment Year, Outlet Identifier, Outlet Location Type, Outlet Size, Outlet Type, Item Visibility, Item Weight, Sales, and Rating.
 
